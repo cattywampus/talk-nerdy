@@ -1,0 +1,2 @@
+module TalkingNerdyHelper
+end
